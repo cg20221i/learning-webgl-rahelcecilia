@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+
+:root {
+    --body-color: rgb(218, 130, 130);
+    --primary-color: rgb(143, 143, 207);
+    ---secondary-color: rgb(75, 142, 155);
+}
+h1{
+    font-family:sans-serif}
+html,
+body {
+    padding: 1.5%;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(69deg, #94ece228, rgb(224, 255, 255));
+    color: var(---secondary-color);
+    overflow: hidden;
+}
+
+
+#container {
+    width: auto;
+    height: auto;
+
+    margin: 0px auto;
+    text-align: center;
+}
+
+#myCanvas {
+    width: auto;
+    height: auto;
+
+}
